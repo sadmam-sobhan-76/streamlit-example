@@ -43,7 +43,7 @@ st.markdown(
 st.title("HR Recruitment Expert System")
 
 # Load company logo
-logo = Image.open("C:\Users\Sadmam Sobhan\Desktop\Academic Project\Ria_Main_Logo_Descriptor_Color_RGB.png")
+logo = Image.open("ria_logo.png")
 st.image(logo, use_column_width=True)
 
 # Main content
