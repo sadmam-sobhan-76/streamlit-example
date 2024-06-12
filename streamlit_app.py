@@ -50,7 +50,6 @@ st.image(logo, use_column_width=True)
 st.header("Vetting the Hiring Process")
 st.write("This application helps in vetting the hiring process of RIA Money Exchange.")
 
-# Add your content and functionality here
 
 # Footer
 st.markdown("---")
